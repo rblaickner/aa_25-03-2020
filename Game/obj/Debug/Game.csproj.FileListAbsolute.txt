@@ -1,0 +1,2 @@
+D:\Schule\HAK\schuljahr_2019-20\Apr\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Schule\HAK\schuljahr_2019-20\Apr\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
